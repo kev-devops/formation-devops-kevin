@@ -1,0 +1,29 @@
+{
+  "name": "formation-devops-kevin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kev-devops/formation-devops-kevin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kev-devops/formation-devops-kevin/issues"
+  },
+  "homepage": "https://github.com/kev-devops/formation-devops-kevin#readme",
+  "dependencies": {
+    "mocha": "^8.2.1",
+    "npm": "^6.14.9"
+  },
+  "devDependencies": {
+    "should": "^13.2.3"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
